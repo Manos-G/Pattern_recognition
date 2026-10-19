@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/home/manos/anaconda3/envs/pr/bin/python",
+    "python.condaPath": "/home/manos/anaconda3/bin/conda",
+    "python.terminal.activateEnvironment": true
+}
